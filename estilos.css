@@ -28,7 +28,7 @@ body{
     background-color: #ccc;
 }
 
-@media (max-width: 1080px) {
+@media (max-width: 900px) {
 
     body {
         background-color: #1a1a2e;
