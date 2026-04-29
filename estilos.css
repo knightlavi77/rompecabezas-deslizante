@@ -28,7 +28,7 @@ body{
     background-color: #ccc;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1080px) {
 
     body {
         background-color: #1a1a2e;
@@ -77,8 +77,9 @@ body{
         background-color: #0f3460;
     }
 
-   footer{
+   #footer{
     align-content: center;
+    gap: 8px;
     background-color: #0f3460;
    }
     button{
@@ -92,8 +93,5 @@ body{
     cursor: pointer;
     }
 
-    #footer button{
-        display: flex;
-        justify-content: center;
-    }
+    
 }
