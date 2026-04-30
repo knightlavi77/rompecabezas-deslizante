@@ -80,10 +80,10 @@ body{
    #footer{
     align-content: center;
     gap: 8px;
-    background-color: #0f3460;
+    background-color: #0a2241;
    }
     button{
-    width: 100px;
+    width: 150px;
     height: 50px;
     background-color: rgb(119, 20, 20);
     border-radius: 6px;
